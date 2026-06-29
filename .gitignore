@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Large model files — too big for GitHub
+data/processed/swahili_ner_model/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Data files — downloaded separately
+data/raw/*.parquet
+data/raw/*.json
+data/interim/
+data/processed/
