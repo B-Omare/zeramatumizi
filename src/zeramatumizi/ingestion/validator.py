@@ -101,6 +101,7 @@ KDHS_SCHEMA = DataFrameSchema(
             int,
             checks=Check.isin([0, 1]),
             nullable=False,
+            coerce=True,
             description="Target variable: disorder progression (0=No, 1=Yes)"
         ),
     },
