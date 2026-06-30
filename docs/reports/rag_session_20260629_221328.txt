@@ -1,0 +1,89 @@
+ZeraMatumizi RAG Pipeline Session Log
+Generated: 2026-06-29 22:13:28
+============================================================
+
+QUERY: A student appears to be using cannabis. What steps should I take?
+RESPONSE:
+Ikiwa mwanafunzi anaonekana kutumia cannabis, utafuate hatua zifuatazo:
+
+1. Karibisha mwanafunzi kwa faragha na bila kuhukumu.
+2. Fanya utambuzi mfupi kwa kutumia zana ya WHO ASSIST.
+3. Tathmini matokeo ya ASSIST: Hatari ya chini (0-3) = ushauri mfupi; Hatari ya wastani (4-26) = uingiliaji kati mfupi na ufuatiliaji; Hatari ya juu (27+) = peleka kwa matibabu ya mahususi.
+4. Andika maelezo ya mwingiliano huo kwenye daftari la afya la shule.
+5. Usiweke mwanafunzi kwenye hatari ya kuachishwa shuleni au kufunguliwa - hii huongeza hatari ya kuacha masomo.
+
+Pia, unaweza kuwapa mwanafunzi na wazazi wao maelezo ya nambari ya simu ya NACADA 1192 kwa usaidizi zaidi.
+SOURCES: NACADA Protocol 2022, NACADA Protocol 2022, WHO ASSIST Guidelines
+------------------------------------------------------------
+
+QUERY: What is the referral pathway for severe alcohol use disorder in Kenya?
+RESPONSE:
+Kwa ajili ya matumizi makubwa ya alcohol, njia ya kurejelea ni kama ifuatavyo:
+
+1. **Ngazi ya 1**: Mfanyikazi wa Afya ya Jamii (CHW) - kutambua awali na kutoa ushauri mfupi katika jamii.
+2. **Ngazi ya 2**: Kituo cha Huduma ya Afya ya Msingi - utambuzi wa haraka, uchunguzi wa ASSIST, na ushauri wa kimsingi.
+3. **Ngazi ya 3**: Hospitali ya Kurejelea ya Kaunti - matibabu ya wagonjwa wa nje ya kitaaluma, matibabu yanayosaidiwa na dawa.
+4. **Ngazi ya 4**: Kurejelea Kitaifa - Hospitali ya Mathare, Nairobi; Hospitali Kuu ya Pwani.
+
+Pia, vituo binafsi kama vile Chiromo Hospital Group, Asumbi Treatment Centre vinaweza kutoa matibabu.
+
+Ikiwa una shaka au unahitaji usaidizi, piga simu kwa NACADA helpline 1192 (bila malipo, saa 24).
+SOURCES: NACADA Protocol 2022, NACADA Protocol 2022, Kenya Mental Health Policy 2015-2030
+------------------------------------------------------------
+
+QUERY: Mwanafunzi anaonekana kutumia bhang. Ninafanya nini?
+RESPONSE:
+Mwanafunzi anaonekana kutumia bhang, kufuata hatua zifuatazo:
+
+1. Mwite pembeni kwa siri - Mwite mwanafunzi hapo pembeni ili kuzungumza naye bila kumfichua mbele ya wengine.
+2. Zungumza kwa upole na heshima - Zungumza na mwanafunzi kwa upole na heshima, usimlaumu wala kumhukumu.
+3. Sikiliza zaidi kuliko kuzungumza - Sikiliza kile anachosema mwanafunzi na jibu kwa upole.
+4. Fanya tathmini ya ASSIST - Tumia zana ya ASSIST kuathiri kiwango cha matumizi ya bhang na kubaini hatua zinazofuata.
+5. Fanya maelekezo ya muda mfupi - Ikiwa mwanafunzi ana hatari ya wastani, fanya maelekezo ya muda mfupi ya masomo ya tabia kwa mwanafunzi.
+6. Shimulishe kuhudhuria shule na utendaji wa kitaaluma - Angalia kuhudhuria shule na utendaji wa kitaaluma wa mwanafunzi kila mwezi.
+7. Peleka kwa NACADA: 1192 - Ikiwa unahitaji usaidizi zaidi, piga simu NACADA kwa nambari 1192 bure.
+
+Kumbuka: Usimwache peke yake na usimfukuze shuleni, kwani hii inaweza kuongeza hatari ya kuacha masomo. Kupona kunawezekana, msaada unapatikana.
+SOURCES: NACADA Swahili Resources, NACADA Swahili Resources, NACADA Protocol 2022
+------------------------------------------------------------
+
+QUERY: Jinsi ya kuzungumza na mtu anayetumia chang'aa?
+RESPONSE:
+Jinsi ya kuzungumza na mtu anayetumia chang'aa:
+1. Mwite pembeni kwa siri - Call them aside privately
+2. Zungumza kwa upole na heshima - Speak gently and respectfully
+3. Sikiliza zaidi kuliko kuzungumza - Listen more than you speak
+4. Usilaumu wala kumhukumu - Do not blame or judge
+5. Mwulize: Je, unaweza kunieleza zaidi kuhusu hali yako?
+6. Toa taarifa kwa NACADA: 1192 (bure) - Piga simu NACADA ili kupata usaidizi wa haraka.
+
+Kumbuka: Ikiwa mtu huyo ana dalili za sumu ya chang'aa, fanya hatua za dharura kama ifuatavyo:
+- Piga simu kwa huduma za dharura mara moja.
+- Usimwache peke yake na umpeleke hospitali ya karibu.
+- Ripoti tukio hilo kwa NACADA kupitia nambari 1192.
+
+Neno la msaada: Kupona kunawezekana. Msaada unapatikana.
+SOURCES: NACADA Swahili Resources, NACADA Protocol 2022, NACADA Swahili Resources
+------------------------------------------------------------
+
+QUERY: How do I use the ASSIST screening tool?
+RESPONSE:
+Ili kutumia zana ya ASSIST, fuata hatua zifuatazo:
+
+1. **Tathmini ya Maisha na Muda Uliopita**: Swali la kwanza linahusu matumizi ya maisha yote, na swali la pili linahusu matumizi katika miezi mitatu iliyopita.
+2. **Tathmini ya Tamaa ya Matumizi**: Swali la tatu linahusu tamaa ya kutumia dawa.
+4. **Tathmini ya Matatizo ya Afya**: Swali la nne linahusu matatizo ya afya yanayohusiana na matumizi ya dawa.
+5. **Tathmini ya Kukosa Kutimiza Majukumu**: Swali la tano linahusu kukosa kutimiza majukumu ya kibinafsi au ya kazi.
+6. **Tathmini ya Wasiwasi wa Wengine**: Swali la sita linahusu wasiwasi kutoka kwa wengine kuhusu matumizi ya dawa.
+7. **Tathmini ya Jaribio la Kupunguza Matumizi**: Swali la saba na la nane linahusu jaribio la kupunguza au kuacha matumizi ya dawa.
+8. **Kuhesabu Alama**: Hesabu alama kulingana na majibu ya mteja.
+
+**Alama za ASSIST**:
+- Alama 0-3 (kwa dawa nyingi) au 0-10 (kwa alkol): Hakuna uingiliaji kati.
+- Alama 4-26 (kwa dawa nyingi) au 11-26 (kwa alkol): Uingiliaji kati mfupi.
+- Alama 27+: Upelekezi kwa matibabu maalum.
+
+Ikiwa una maswali zaidi au unahitaji usaidizi, piga simu kwa NACADA kwa nambari 1192.
+SOURCES: WHO ASSIST Guidelines, NACADA Protocol 2022, WHO ASSIST Guidelines
+------------------------------------------------------------
+
