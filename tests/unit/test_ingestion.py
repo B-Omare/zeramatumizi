@@ -16,9 +16,9 @@ from zeramatumizi.ingestion.validator import validate_kdhs, KDHS_SCHEMA
 
 
 def test_sample_data_shape():
-    """Dataset must have 1000 rows and 13 columns."""
+    """Dataset must have 4000 rows and 13 columns."""
     df = create_sample_kdhs_data()
-    assert df.shape == (1000, 13)
+    assert df.shape == (4000, 13)
 
 
 def test_no_missing_values():
@@ -70,4 +70,4 @@ def test_validation_passes():
     """Full Pandera schema validation must pass on sample data."""
     df = create_sample_kdhs_data()
     validated = validate_kdhs(df)
-    assert len(validated) == 1000
+    assert len(validated) == 4000
