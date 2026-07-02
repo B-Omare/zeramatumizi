@@ -118,6 +118,36 @@ pytest tests/ -v
 ```
 
 ---
+## Containerisation
+
+The project includes a `Dockerfile` for containerised deployment.
+
+### Using Podman (recommended — rootless, no daemon):
+```bash
+# Build
+podman build -t localhost/zeramatumizi:latest .
+
+# Run
+podman run -d --name zeramatumizi \
+  -p 8000:8000 -p 8501:8501 \
+  -e GROQ_API_KEY=your-key-here \
+  -v ./data:/app/data \
+  -v ./docs:/app/docs \
+  localhost/zeramatumizi:latest
+```
+
+### Using Docker:
+```bash
+docker build -t zeramatumizi:latest .
+docker run -d --name zeramatumizi \
+  -p 8000:8000 -p 8501:8501 \
+  -e GROQ_API_KEY=your-key-here \
+  zeramatumizi:latest
+```
+
+### Access:
+- Dashboard: http://localhost:8501
+- API docs: http://localhost:8000/docs
 
 ## Project Structure
 zeramatumizi/
